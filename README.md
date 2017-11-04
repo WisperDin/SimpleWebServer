@@ -29,7 +29,7 @@ DB_PWD=xxxx
 
 #### 2. controller 放api的
 
-####　3. customException 一些自定义异常
+#### 3. customException 一些自定义异常
 
 #### 4. db 数据库连接接口
 
